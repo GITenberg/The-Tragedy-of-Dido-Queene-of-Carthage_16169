@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/410
     wikipedia: http://en.wikipedia.org/wiki/Christopher_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16169#The-Tragedy-of-Dido-Queene-of-Carthage
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
